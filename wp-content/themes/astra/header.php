@@ -18,6 +18,10 @@ if ( ! defined( 'ABSPATH' ) ) {
 <?php astra_html_before(); ?>
 <html <?php language_attributes(); ?>>
 <head>
+	
+	
+	<meta name="google-site-verification" content="ZZ0MRT5tFrtFaEGWqk6-Lg7V0xDkHiVyCUNj1mwzL1w" />
+	
 <?php astra_head_top(); ?>
 <meta charset="<?php bloginfo( 'charset' ); ?>">
 <meta name="viewport" content="width=device-width, initial-scale=1">
