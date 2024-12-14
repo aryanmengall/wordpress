@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Thoughts &#8211; Aryan Mengal</title>
+	<atom:link href="https://aryanmengall.github.io/wordpress/category/thoughts/feed/" rel="self" type="application/rss+xml" />
+	<link>https://aryanmengall.github.io/wordpress</link>
+	<description>Artist</description>
+	<lastBuildDate>Thu, 12 Dec 2024 11:28:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>https://aryanmengall.github.io/wordpress/wp-content/uploads/2024/11/Untitled-design-28.png</url>
+	<title>Thoughts &#8211; Aryan Mengal</title>
+	<link>https://aryanmengall.github.io/wordpress</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>SCNE KUCH AISE HAI?</title>
+		<link>https://aryanmengall.github.io/wordpress/scne-kuch-aise-hai/</link>
+					<comments>https://aryanmengall.github.io/wordpress/scne-kuch-aise-hai/#respond</comments>
+		
+		<dc:creator><![CDATA[root]]></dc:creator>
+		<pubDate>Thu, 12 Dec 2024 11:28:11 +0000</pubDate>
+				<category><![CDATA[Thoughts]]></category>
+		<guid isPermaLink="false">https://aryanmengall.github.io/wordpress/?p=1152</guid>
+
+					<description><![CDATA[YOU SHOULD START WHAT YOU WANT TO DO AND WHEN AND HOW AND WHERE AND WHITH WHOME]]></description>
+										<content:encoded><![CDATA[
+<p>YOU SHOULD START WHAT YOU WANT TO DO AND WHEN AND HOW AND WHERE AND WHITH WHOME</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://aryanmengall.github.io/wordpress/scne-kuch-aise-hai/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>how to handle stress?</title>
+		<link>https://aryanmengall.github.io/wordpress/how-to-handle-stress/</link>
+		
+		<dc:creator><![CDATA[root]]></dc:creator>
+		<pubDate>Mon, 09 Dec 2024 09:21:14 +0000</pubDate>
+				<category><![CDATA[Thoughts]]></category>
+		<guid isPermaLink="false">https://aryanmengall.github.io/wordpress/?p=1081</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
