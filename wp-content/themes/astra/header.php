@@ -18,7 +18,15 @@ if ( ! defined( 'ABSPATH' ) ) {
 <?php astra_html_before(); ?>
 <html <?php language_attributes(); ?>>
 <head>
-	
+	<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ELZ3CFDZM4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ELZ3CFDZM4');
+</script>
 	
 	<meta name="google-site-verification" content="ZZ0MRT5tFrtFaEGWqk6-Lg7V0xDkHiVyCUNj1mwzL1w" />
 	

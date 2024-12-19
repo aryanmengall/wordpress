@@ -7,3 +7,8 @@
 [2024-12-15 11:29:50 : INFO] - Cache for URL: http://localhost/wordpress/?p=1238 has been purged, triggered by action: save_post 
 [2024-12-15 11:29:50 : INFO] - Cache for previous post (with URL: http://localhost/wordpress/she-was-right/) adjacent to post with id: 1238 has been purged, triggered by action: save_post 
 [2024-12-15 11:29:50 : INFO] - Cache for all archives page associated with post_type: post and Title: "Auto Draft" have been purged, triggered by action: save_post 
+[2024-12-19 17:24:16 : INFO] - Cache for URL: http://localhost/wordpress/ has been purged, triggered by action: save_post 
+[2024-12-19 17:24:16 : INFO] - Cache for URL: http://localhost/wordpress/ has been purged, triggered by action: save_post 
+[2024-12-19 17:24:17 : INFO] - Cache for URL: http://localhost/wordpress/ has been purged, triggered by action: save_post 
+[2024-12-19 17:37:55 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2024-12-19 17:44:10 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
