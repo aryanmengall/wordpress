@@ -1,14 +1,20 @@
-[2024-12-14 16:36:03 : INFO] - Full Cache Purge triggered by: WP_Optimize_Minify_Cache_Functions::purge_others 
-[2024-12-14 16:37:11 : INFO] - Pruning the Cache log file 
-[2024-12-14 17:07:06 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
-[2024-12-14 17:09:22 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
-[2024-12-14 17:09:59 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
-[2024-12-14 17:10:23 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
-[2024-12-15 11:29:50 : INFO] - Cache for URL: http://localhost/wordpress/?p=1238 has been purged, triggered by action: save_post 
-[2024-12-15 11:29:50 : INFO] - Cache for previous post (with URL: http://localhost/wordpress/she-was-right/) adjacent to post with id: 1238 has been purged, triggered by action: save_post 
-[2024-12-15 11:29:50 : INFO] - Cache for all archives page associated with post_type: post and Title: "Auto Draft" have been purged, triggered by action: save_post 
 [2024-12-19 17:24:16 : INFO] - Cache for URL: http://localhost/wordpress/ has been purged, triggered by action: save_post 
 [2024-12-19 17:24:16 : INFO] - Cache for URL: http://localhost/wordpress/ has been purged, triggered by action: save_post 
 [2024-12-19 17:24:17 : INFO] - Cache for URL: http://localhost/wordpress/ has been purged, triggered by action: save_post 
 [2024-12-19 17:37:55 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
 [2024-12-19 17:44:10 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2024-12-21 11:55:47 : INFO] - Cache for URL: http://localhost/wordpress/ has been purged, triggered by action: save_post 
+[2024-12-21 11:56:49 : INFO] - Cache for URL: http://localhost/wordpress/ has been purged, triggered by action: save_post 
+[2024-12-21 12:04:57 : INFO] - Cache for URL: http://localhost/wordpress/biography/ has been purged, triggered by action: save_post 
+[2024-12-21 12:05:11 : INFO] - Cache for URL: http://localhost/wordpress/biography/ has been purged, triggered by action: save_post 
+[2024-12-21 12:06:59 : INFO] - Cache for URL: http://localhost/wordpress/my-books/ has been purged, triggered by action: save_post 
+[2024-12-21 12:07:14 : INFO] - Cache for URL: http://localhost/wordpress/my-books/ has been purged, triggered by action: save_post 
+[2024-12-21 12:08:42 : INFO] - Cache for URL: http://localhost/wordpress/thoughts/ has been purged, triggered by action: save_post 
+[2024-12-21 12:08:57 : INFO] - Cache for URL: http://localhost/wordpress/thoughts/ has been purged, triggered by action: save_post 
+[2024-12-21 12:09:59 : INFO] - Cache for URL: http://localhost/wordpress/thoughts/ has been purged, triggered by action: save_post 
+[2024-12-21 12:10:14 : INFO] - Cache for URL: http://localhost/wordpress/thoughts/ has been purged, triggered by action: save_post 
+[2024-12-23 07:34:12 : INFO] - Pruning the Cache log file 
+[2024-12-23 07:34:17 : INFO] - Cache for URL: http://localhost/wordpress/?p=1248 has been purged, triggered by action: save_post 
+[2024-12-23 07:34:17 : INFO] - Cache for previous post (with URL: http://localhost/wordpress/she-was-right/) adjacent to post with id: 1248 has been purged, triggered by action: save_post 
+[2024-12-23 07:34:17 : INFO] - Cache for all archives page associated with post_type: post and Title: "Auto Draft" have been purged, triggered by action: save_post 
+[2024-12-23 07:35:16 : INFO] - Pruning the Cache log file 
